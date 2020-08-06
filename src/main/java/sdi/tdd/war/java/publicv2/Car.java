@@ -10,7 +10,7 @@ public class Car {
 
   //Constructor for Car
   public Car(int mpg){
-
+    
   }
 
   public void fill(int gas){
